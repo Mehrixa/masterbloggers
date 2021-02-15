@@ -1,0 +1,14 @@
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.deps.json
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.dll
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.pdb
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.dll
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\bin\Debug\netcoreapp3.1\MB.Domain.pdb
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csprojAssemblyReference.cache
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfoInputs.cache
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.AssemblyInfo.cs
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CoreCompileInputs.cache
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.csproj.CopyComplete
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.dll
+D:\Onion Architecture\Project\MasterBlogger\MB.Application\obj\Debug\netcoreapp3.1\MB.Application.pdb

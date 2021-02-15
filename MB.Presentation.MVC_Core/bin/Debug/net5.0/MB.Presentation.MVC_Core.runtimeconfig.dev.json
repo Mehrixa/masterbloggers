@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HP OMEN.LAPTOP-CCQRL1VR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HP OMEN.LAPTOP-CCQRL1VR\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

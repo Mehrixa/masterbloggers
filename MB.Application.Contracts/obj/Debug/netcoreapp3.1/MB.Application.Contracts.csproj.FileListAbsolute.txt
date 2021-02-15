@@ -1,0 +1,9 @@
+D:\Onion Architecture\Project\MasterBlogger\MB.Application.Contracts\bin\Debug\netcoreapp3.1\MB.Application.Contracts.deps.json
+D:\Onion Architecture\Project\MasterBlogger\MB.Application.Contracts\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\Onion Architecture\Project\MasterBlogger\MB.Application.Contracts\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+D:\Onion Architecture\Project\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.csprojAssemblyReference.cache
+D:\Onion Architecture\Project\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.AssemblyInfoInputs.cache
+D:\Onion Architecture\Project\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.AssemblyInfo.cs
+D:\Onion Architecture\Project\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Onion Architecture\Project\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+D:\Onion Architecture\Project\MasterBlogger\MB.Application.Contracts\obj\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
